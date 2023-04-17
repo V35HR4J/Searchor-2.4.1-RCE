@@ -9,6 +9,10 @@ Example:
 
 `python3 exploit.py http://localhost:5000/search ls`
 
+## Proof of Concept:
+
+![POC](assets/poc.png)
+
 References:
 - https://security.snyk.io/vuln/SNYK-PYTHON-SEARCHOR-3166303
 - https://github.com/ArjunSharda/Searchor/commit/29d5b1f28d29d6a282a5e860d456fab2df24a16b
